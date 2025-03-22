@@ -1,0 +1,7 @@
+[theme]
+base="light"  # Usando o tema claro como base
+primaryColor="#4CAF50"  # Verde aproximado do lado direito
+backgroundColor="#003B58"  # Azul escuro para o fundo principal
+secondaryBackgroundColor="#008000"  # Verde intermediário
+textColor="#FFFFFF"  # Branco para o texto
+
